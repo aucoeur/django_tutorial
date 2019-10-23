@@ -29,8 +29,6 @@ Temporary Items
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
-djangosite/polls/__pycache__/
-djangosite/djangosite/__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
